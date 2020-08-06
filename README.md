@@ -1,7 +1,8 @@
-### Hi there 👋
+### 
 
-- Working on my own budget (mammoth)
-- :heart: Frontend Development and fancy coffee :coffee:
+- :hammer: [Mammoth](https://github.com/snurby7/mammoth-nx) my latest shot at budget application.
+- :heart: Frontend Development
+- Appreciator of coffee :coffee:
 
 <!--
 **snurby7/snurby7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
