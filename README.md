@@ -1,6 +1,6 @@
 ### 
 
-- :hammer: [Mammoth](https://github.com/snurby7/mammoth-nx) my latest shot at budget application.
+- :hammer: [Mammoth](https://github.com/mammoth-apps) my latest shot at making a bunch of budget apps in different languages.
 - :heart: Frontend Development
 - Appreciator of coffee :coffee:
 
