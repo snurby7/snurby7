@@ -1,6 +1,6 @@
 ### 
 
-- :hammer: [Money](https://github.com/money) my latest shot at making a bunch of budget apps in different languages.
+- :hammer: [Money](https://github.com/snruby7/money) my latest shot at making a bunch of budget apps in different languages.
 - :heart: Frontend Development
 - Appreciator of coffee :coffee:
 
