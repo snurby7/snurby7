@@ -1,8 +1,7 @@
 ### 
 
-- :hammer: [Money](https://github.com/snurby7/money) my latest shot at making a bunch of budget apps in different languages.
-- :heart: Frontend Development
-- Appreciator of coffee :coffee:
+It has certainly been a long while and a lot of the projects got dusty. New things coming. It's just a process.
+Currently focusing on Three.js and Qwik for now. Priorities always changing to learn new skills and patterns.
 
 <!--
 **snurby7/snurby7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
